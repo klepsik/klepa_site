@@ -1,0 +1,20 @@
+body {
+	background: #EE82EE;
+}
+#klepa {
+	max-width: 500px;
+	margin: 0 auto;
+	background: #EE82EE;
+	text-align: center;
+}
+#out {
+	color:red;
+	font-size: 30px;
+}
+h3 {
+	color:#FFFF00;	
+}
+ #vid  {
+}
+display:none;
+}
